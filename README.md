@@ -1,12 +1,44 @@
-# React + Vite
+#🚀 Meme Generator Web App
+🎉 Overview
+A fun and interactive React-based Meme Generator that allows users to create hilarious memes by:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Randomly fetching meme templates from Imgflip API
+Adding custom top and bottom text
+Generating instant memes with a single click
+#✨ Features
+🖼️ Dynamic meme image selection
+📝 Customizable top and bottom text
+🔄 Instant meme generation
+🌐 Powered by Imgflip Meme API
+🛠 Tech Stack
+React
+Vite
+JavaScript
+CSS
+Imgflip API
 
-Currently, two official plugins are available:
+#🚀 Quick Start
+Installation
+git clone https://github.com/Neha-9321/Meme-generator.git
+cd Meme-generator
+npm install
+npm run dev
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Copy
 
-## Expanding the ESLint configuration
+Execute
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+#🤖 How It Works
+Fetches meme templates from Imgflip API
+Allows text customization
+Generates random meme images on button click
+🌈 Screenshots
+[Add your app screenshots here]
+
+🤝 Contributions
+Contributions, issues, and feature requests are welcome!
+
+📄 License
+MIT License
+
+Enjoy creating memes! 😄🎈
